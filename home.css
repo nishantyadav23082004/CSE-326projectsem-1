@@ -1,0 +1,30 @@
+.navigation ul{
+	list-style-type:none;
+	margin:o;
+	padding:0;
+	overflow:hidden;
+	background-color:orange;
+}
+.navigation li a:hover{
+	background-color:red;
+}
+.navigation li a{
+	display:block;
+	color:white;
+	text-algn:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+#mainflash{
+	font-size:20px;
+}
+.subtitle{
+	font-size:50px;
+	color:white;
+	background-color:purple;
+}
+.subheading{
+	font-size:40px;
+	background-color:black;
+	color:red;
+}
